@@ -1,0 +1,72 @@
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\leftArrow\arrowLeftDefault.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\leftArrow\arrowLeftPressed.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\rightArrow\arrowRightDefault.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\rightArrow\arrowRightPressed.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\doors\door.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\jumpButton\jumpButtonDefault.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\jumpButton\jumpButtonPressed.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\menuButtons\menuButton.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\platform.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\backgrounds\ruledPageBackground.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Dream of the Doodle Runner.exe
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Dream of the Doodle Runner.pdb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\Dream of the Doodle Runner.exe
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\Dream of the Doodle Runner.pdb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Font1.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\logo's\logo.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\improvedPlatform.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\playerTestTexture.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\improvedPlatformStoodOn.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\idleLeft.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR1.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR2.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR3.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR4.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR5.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\idleRight.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL1.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL2.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL3.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL4.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL5.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\penCursor.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Wilhelm Scream.xnb
+J:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Boing.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\leftArrow\arrowLeftDefault.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\leftArrow\arrowLeftPressed.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\rightArrow\arrowRightDefault.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\rightArrow\arrowRightPressed.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\doors\door.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\jumpButton\jumpButtonDefault.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\jumpButton\jumpButtonPressed.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\menuButtons\menuButton.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\platform.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\backgrounds\ruledPageBackground.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\logo's\logo.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\improvedPlatform.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\playerTestTexture.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\improvedPlatformStoodOn.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\idleRight.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR1.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR2.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR3.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR4.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR5.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\idleLeft.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL1.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL2.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL3.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL4.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL5.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\penCursor.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Font1.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Wilhelm Scream.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Boing.xnb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Dream of the Doodle Runner.exe
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Dream of the Doodle Runner.pdb
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\Dream of the Doodle Runner.exe
+K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\obj\x86\Debug\Dream of the Doodle Runner.pdb

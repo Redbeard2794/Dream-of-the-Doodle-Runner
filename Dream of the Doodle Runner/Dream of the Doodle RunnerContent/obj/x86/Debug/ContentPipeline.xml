@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>leftArrow\arrowLeftDefault.png</Source>
+      <Name>leftArrow\arrowLeftDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\leftArrow\arrowLeftDefault.xnb</Output>
+      <Time>2014-05-30T15:46:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>leftArrow\arrowLeftPressed.png</Source>
+      <Name>leftArrow\arrowLeftPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\leftArrow\arrowLeftPressed.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rightArrow\arrowRightDefault.png</Source>
+      <Name>rightArrow\arrowRightDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\rightArrow\arrowRightDefault.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rightArrow\arrowRightPressed.png</Source>
+      <Name>rightArrow\arrowRightPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\rightArrow\arrowRightPressed.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>doors\door.png</Source>
+      <Name>doors\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\doors\door.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jumpButton\jumpButtonDefault.png</Source>
+      <Name>jumpButton\jumpButtonDefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\jumpButton\jumpButtonDefault.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jumpButton\jumpButtonPressed.png</Source>
+      <Name>jumpButton\jumpButtonPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\jumpButton\jumpButtonPressed.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menuButtons\menuButton.png</Source>
+      <Name>menuButtons\menuButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\menuButtons\menuButton.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>platforms\platform.png</Source>
+      <Name>platforms\platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\platform.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\ruledPageBackground.jpg</Source>
+      <Name>backgrounds\ruledPageBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\backgrounds\ruledPageBackground.xnb</Output>
+      <Time>2014-05-30T15:46:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>logo's\logo.png</Source>
+      <Name>logo's\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\logo's\logo.xnb</Output>
+      <Time>2014-05-30T18:35:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>platforms\improvedPlatform.png</Source>
+      <Name>platforms\improvedPlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\improvedPlatform.xnb</Output>
+      <Time>2014-05-30T19:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\playerTestTexture.png</Source>
+      <Name>player\playerTestTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\playerTestTexture.xnb</Output>
+      <Time>2014-05-30T19:18:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>platforms\improvedPlatformStoodOn.png</Source>
+      <Name>platforms\improvedPlatformStoodOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\platforms\improvedPlatformStoodOn.xnb</Output>
+      <Time>2014-05-30T19:59:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\idleRight.png</Source>
+      <Name>player\idleRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\idleRight.xnb</Output>
+      <Time>2014-06-04T15:58:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runR1.png</Source>
+      <Name>player\runR1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR1.xnb</Output>
+      <Time>2014-06-04T15:58:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runR2.png</Source>
+      <Name>player\runR2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR2.xnb</Output>
+      <Time>2014-06-04T15:58:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runR3.png</Source>
+      <Name>player\runR3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR3.xnb</Output>
+      <Time>2014-06-04T15:58:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runR4.png</Source>
+      <Name>player\runR4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR4.xnb</Output>
+      <Time>2014-06-04T15:58:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runR5.png</Source>
+      <Name>player\runR5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runR5.xnb</Output>
+      <Time>2014-06-04T15:58:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\idleLeft.png</Source>
+      <Name>player\idleLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\idleLeft.xnb</Output>
+      <Time>2014-06-04T16:13:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runL1.png</Source>
+      <Name>player\runL1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL1.xnb</Output>
+      <Time>2014-06-04T16:13:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runL2.png</Source>
+      <Name>player\runL2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL2.xnb</Output>
+      <Time>2014-06-04T16:13:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runL3.png</Source>
+      <Name>player\runL3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL3.xnb</Output>
+      <Time>2014-06-04T16:13:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runL4.png</Source>
+      <Name>player\runL4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL4.xnb</Output>
+      <Time>2014-06-04T16:13:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>player\runL5.png</Source>
+      <Name>player\runL5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\player\runL5.xnb</Output>
+      <Time>2014-06-04T16:13:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>penCursor.png</Source>
+      <Name>penCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\penCursor.xnb</Output>
+      <Time>2014-06-09T20:50:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2014-05-30T18:41:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wilhelm Scream.wav</Source>
+      <Name>Wilhelm Scream</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Wilhelm Scream.xnb</Output>
+      <Time>2014-06-14T17:02:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Boing.wav</Source>
+      <Name>Boing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\Boing.xnb</Output>
+      <Time>2014-06-16T16:44:22+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle RunnerContent\</RootDirectory>
+      <LoggerRootDirectory>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\</LoggerRootDirectory>
+      <IntermediateDirectory>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle RunnerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>K:\Dream of the Doodle Runner (keyboard)\Dream of the Doodle Runner\Dream of the Doodle Runner\Dream of the Doodle Runner\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-09T17:11:48.90625+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
